@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "001",
+    "ValueName": "Tire Temperature",
+    "MeasurementUnit": "celsius",
+    "Minimum": "20",
+    "Range": "10",
+    "Timeout": "1000"
+  },
+  {
+    "Id": "002",
+    "ValueName": "Oil Temperature",
+    "MeasurementUnit": "celsius",
+    "Range": "10",
+    "Minimum": "50",
+    "Timeout": "1000"
+  },
+  {
+    "Id": "003",
+    "ValueName": "Tire Rounds per Minute",
+    "MeasurementUnit": "rpm",
+    "Range": "1000",
+    "Minimum": "0",
+    "Timeout": "3000"
+  }
+]
